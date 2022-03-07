@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o Renan G. Silva
 - 👀 Eu sou um fan e tecnologia apaixonado por desenvolvimento web
-- 🌱 Eu sou formato em Ciência da Computação pelo UNIP aqui em São Paulo SP
+- 🌱 Eu sou formado em Ciência da Computação pelo UNIP em São Paulo SP
 - 💞️ Tmj para contribuir e colaborar em novos projetos
 - 📫 
 
