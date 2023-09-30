@@ -2,7 +2,6 @@
 - 👀 Eu sou um fan e tecnologia apaixonado por desenvolvimento web
 - 🌱 Eu sou formado em Ciência da Computação pelo UNIP em São Paulo SP
 - 💞️ Tmj para contribuir e colaborar em novos projetos
-- 📫 
 
 <!---
 Teasercry/Teasercry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
